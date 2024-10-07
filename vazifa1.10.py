@@ -1,5 +1,5 @@
 n = int(input(" n : "))
-a = 7
+a = 8
 
 
 
