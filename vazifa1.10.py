@@ -1,5 +1,5 @@
 n = int(input(" n : "))
-a = 4
+a = 6
 
 
 
